@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi! I'm Joanna :D
 
-<!--
-**Joabulla07/Joabulla07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional with solid experience in software development, engineering, and technology project management. I'm passionate about technology, innovation, and continuous learning. I have experience leading teams, designing efficient solutions, and applying best practices in systems development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Experience in web development, backend, and frontend
+- 🛠️ Skilled in technologies such as Python, JavaScript, React, etc.
+- 📈 Experience leading projects and multidisciplinary teams
+- 🌱 Always learning new tools and methodologies
+- 🤝 Collaborative, results-oriented, and with a strategic vision
+
+## 💡 Areas of Interest
+
+- Software architecture
+- Artificial intelligence and data analytics
+
+## 📫 Interested in connecting?
+
+You can contact me at [joannabbado4748@gmail.com] or find me on [LinkedIn](https://www.linkedin.com/in/joanna-bulla-8431ab190).
+
+---
+
+Thank you for visiting my profile! 🚀
